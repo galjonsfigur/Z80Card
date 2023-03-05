@@ -1,0 +1,3 @@
+[submodule "software/Z80-MBC2"]
+	path = software/Z80-MBC2
+	url = https://github.com/SuperFabius/Z80-MBC2
